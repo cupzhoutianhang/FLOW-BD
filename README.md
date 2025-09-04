@@ -1,7 +1,7 @@
 # FLOW-BD: Large Language Model for Iron-Chromium Flow Batteries
 
 <p align="center">
-  <img src="625c9d8b-86ed-457e-8adc-912ce7d93788.png" alt="FLOW-BD Logo" width="300"/>
+  <img src="flowbd.png" alt="FLOW-BD Logo" width="300"/>
 </p>
 
 ---
